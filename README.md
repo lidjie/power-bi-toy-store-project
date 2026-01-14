@@ -1,1 +1,1 @@
-# power-bi-toy-store-project
+Maven Analytics Power BI Toy Store Project
